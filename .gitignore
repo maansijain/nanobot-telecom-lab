@@ -1,6 +1,7 @@
-/*
-!memory/
-!SOUL.md
-!USER.md
-!memory/MEMORY.md
-!.gitignore
+__pycache__/
+*.pyc
+.env
+
+# generated outputs
+reports/
+data/logs/
